@@ -4,7 +4,7 @@ A simple tool to read properties which is like the way Play Framework 1.x does.
 
 Features
 --------------------------------
-* Namespace is support
+* Namespace is supported
 * Including other files
 * Replacing property values with system environment variables or system properties
 
